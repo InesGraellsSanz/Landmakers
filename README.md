@@ -2,7 +2,7 @@
 
 A simple iOS app demonstrating SwiftUI basics and navigation using Apple’s tutorials:
 
-<img src="Screenshots/LandmarkList" width="300" alt="Landmark Detail View"/>
+<img src="Screenshots/LandmarkList.png" width="300" alt="Landmark Detail View"/>
 <img src="Screenshots/LandmarkListPhone.png" width="300" alt="Landmark Detail View"/>
 
 - **Part 1: 🧩 SwiftUI Essentials – Creating and Combining Views**
