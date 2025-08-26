@@ -37,6 +37,8 @@ A simple iOS app demonstrating SwiftUI basics, navigation, and state-driven inte
   * 🖱️ Connected button state to the landmark model, so UI updates automatically when toggled
   * 📲 Updated `LandmarkList` to visually show favorite landmarks with a filled star
   * 🎯 Reinforced SwiftUI’s declarative pattern: views react to changes in state automatically
+ 
+<img src="Screenshots/ContentView-fav.png" width="300" alt="Landmark Detail View"/>
 
 * **Part 4: 🧩 Composing Complex Interfaces**
 
@@ -45,6 +47,8 @@ A simple iOS app demonstrating SwiftUI basics, navigation, and state-driven inte
   * 📦 Modeled app data in `ModelData` to hold landmarks and allow consistent updates throughout the app
   * 🔄 Ensured any change in data (like marking favorites) automatically propagates across all screens
   * 📱 Built a more scalable app foundation, preparing for larger SwiftUI architectures
+ 
+<img src="Screenshots/ContentView-final.png" width="300" alt="Landmark Detail View"/>
 
 ---
 
